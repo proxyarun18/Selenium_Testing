@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/arun/Projects/Selenium/Selenium/Selenium.csproj",
+      "projectUniqueName": "/Users/arun/Projects/1/Selenium_Testing/Selenium/Selenium/Selenium.csproj",
       "projectName": "Selenium",
-      "projectPath": "/Users/arun/Projects/Selenium/Selenium/Selenium.csproj",
+      "projectPath": "/Users/arun/Projects/1/Selenium_Testing/Selenium/Selenium/Selenium.csproj",
       "packagesPath": "/Users/arun/.nuget/packages/",
-      "outputPath": "/Users/arun/Projects/Selenium/Selenium/obj/",
+      "outputPath": "/Users/arun/Projects/1/Selenium_Testing/Selenium/Selenium/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/arun/.config/NuGet/NuGet.Config"
